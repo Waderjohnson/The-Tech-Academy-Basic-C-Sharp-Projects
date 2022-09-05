@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.exe
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.deps.json
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.runtimeconfig.json
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.runtimeconfig.dev.json
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.dll
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\bin\Debug\netcoreapp3.1\Price_Quote_Shipping.pdb
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.AssemblyInfo.cs
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.dll
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.pdb
+C:\Users\wader\source\repos\Price_Quote_Shipping\Price_Quote_Shipping\obj\Debug\netcoreapp3.1\Price_Quote_Shipping.genruntimeconfig.cache

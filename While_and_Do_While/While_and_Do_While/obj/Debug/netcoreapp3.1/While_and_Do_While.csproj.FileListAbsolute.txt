@@ -1,0 +1,13 @@
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.AssemblyInfo.cs
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.exe
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.deps.json
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.runtimeconfig.json
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.runtimeconfig.dev.json
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.dll
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\bin\Debug\netcoreapp3.1\While_and_Do_While.pdb
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.dll
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.pdb
+C:\Users\wader\source\repos\While_and_Do_While\While_and_Do_While\obj\Debug\netcoreapp3.1\While_and_Do_While.genruntimeconfig.cache

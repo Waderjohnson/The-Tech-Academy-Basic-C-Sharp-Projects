@@ -1,0 +1,7 @@
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.exe.config
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.exe
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\bin\Debug\TTADailyReport.pdb
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.exe
+C:\Users\wader\source\repos\TTADailyReport\TTADailyReport\obj\Debug\TTADailyReport.pdb

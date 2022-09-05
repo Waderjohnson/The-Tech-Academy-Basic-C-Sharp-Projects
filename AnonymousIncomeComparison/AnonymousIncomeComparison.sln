@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32630.194
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AnonymousIncomeComparison", "AnonymousIncomeComparison\AnonymousIncomeComparison.csproj", "{B5700ADC-848C-40A0-A4A9-8D8DE828066A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B5700ADC-848C-40A0-A4A9-8D8DE828066A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5700ADC-848C-40A0-A4A9-8D8DE828066A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5700ADC-848C-40A0-A4A9-8D8DE828066A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5700ADC-848C-40A0-A4A9-8D8DE828066A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {64F368AB-7581-49C6-A556-BEB58C771089}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.exe
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.deps.json
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.runtimeconfig.json
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.runtimeconfig.dev.json
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.dll
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\bin\Debug\netcoreapp3.1\Car_Insurance_Project.pdb
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.AssemblyInfo.cs
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.dll
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.pdb
+C:\Users\wader\source\repos\Car_Insurance_Project\Car_Insurance_Project\obj\Debug\netcoreapp3.1\Car_Insurance_Project.genruntimeconfig.cache

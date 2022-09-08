@@ -1,0 +1,13 @@
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.AssemblyInfo.cs
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.exe
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.deps.json
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.runtimeconfig.json
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.runtimeconfig.dev.json
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.dll
+C:\Users\wader\source\repos\Main_Method\Main_Method\bin\Debug\netcoreapp3.1\Main_Method.pdb
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.dll
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.pdb
+C:\Users\wader\source\repos\Main_Method\Main_Method\obj\Debug\netcoreapp3.1\Main_Method.genruntimeconfig.cache

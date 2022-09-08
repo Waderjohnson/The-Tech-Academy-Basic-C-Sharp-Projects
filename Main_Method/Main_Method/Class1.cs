@@ -1,30 +1,20 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using System.Text;
+using System.Threading.Tasks;
 
-namespace Main_Method
+namespace MethodSubmissionAssignment
 {
-    class DoMath
+    //class Math
+    class Math
     {
-        //a public method that performs an addition calulation from a value passed in from the method call.  The method returns the value from the addition calculation.
-        public int addition(int num)
+        //public int method named addition taking in two parameters, both being int values.  If a second value is not passed in, it will automaticly equal 0.  an addition calculation is done with 
+        // the two values passed in and the rusult is saved to the variable donemath and then returned as the result of the addition method.
+        public int addition(int num1, int num2 = 0)
         {
-            int doneMath = num + 111;
-            return doneMath;
-        }
-        //a overflow method that performs a subtraction calulation from a value passed in from the method call.  The method returns the value from the subtraction calculation.
-        public decimal addition(decimal dec)
-        {
-            decimal doneMath = dec - .315m;
-            return doneMath;
-        }
-        //a overflow method that performs an multiplication calulation from a value passed in from the method call.  The value passed in as a string is converted within the method
-        //to an int and returns an int value. The method returns the value from the multiplication calculation.
-        public int addition(string aString)
-        {
-            int number = Convert.ToInt32(aString);
-            int doneMath = number * 35;
-            return doneMath;
+            int donemath = num1 + num2;
+            return donemath;
         }
     }
 }

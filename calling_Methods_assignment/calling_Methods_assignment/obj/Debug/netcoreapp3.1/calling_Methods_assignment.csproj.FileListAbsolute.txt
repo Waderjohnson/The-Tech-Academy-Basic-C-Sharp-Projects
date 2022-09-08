@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.AssemblyInfo.cs
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.exe
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.deps.json
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.runtimeconfig.json
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.runtimeconfig.dev.json
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.dll
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\bin\Debug\netcoreapp3.1\calling_Methods_assignment.pdb
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.dll
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.pdb
+C:\Users\wader\source\repos\calling_Methods_assignment\calling_Methods_assignment\obj\Debug\netcoreapp3.1\calling_Methods_assignment.genruntimeconfig.cache

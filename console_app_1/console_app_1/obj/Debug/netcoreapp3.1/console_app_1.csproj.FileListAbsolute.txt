@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.exe
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.deps.json
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.runtimeconfig.json
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.runtimeconfig.dev.json
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.dll
+C:\Users\wader\source\repos\console_app_1\console_app_1\bin\Debug\netcoreapp3.1\console_app_1.pdb
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.AssemblyInfo.cs
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.dll
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.pdb
+C:\Users\wader\source\repos\console_app_1\console_app_1\obj\Debug\netcoreapp3.1\console_app_1.genruntimeconfig.cache

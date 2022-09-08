@@ -1,0 +1,13 @@
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.AssemblyInfo.cs
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.exe
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.deps.json
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.runtimeconfig.json
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.runtimeconfig.dev.json
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.dll
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\bin\Debug\netcoreapp3.1\ClassOverload.pdb
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.dll
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.pdb
+C:\Users\wader\source\repos\ClassOverload\ClassOverload\obj\Debug\netcoreapp3.1\ClassOverload.genruntimeconfig.cache

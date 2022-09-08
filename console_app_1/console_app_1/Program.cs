@@ -10,21 +10,25 @@ namespace console_app_1
     {
         static void Main(string[] args)
         {
-            //Create a one-dimesional Array of strings. Ask user to input some text. Create a loop that goes through each string in the Array, 
-            //adding the user's text to the string. Then create a loop that prints off each string in the Array on a separate line.
+            //A one-dimensional array of strings
+            string[] stringList = { "hello ", "i see you, ", "do you want to play, " };
 
-            string[] myStringArray = { "One", "dimensional", "array", "of", "strings" };
+            //A WriteLine method that prints to the console with a question asking for some input from the user.
+            Console.WriteLine("Please write your name.");
 
-            Console.WriteLine("Please input a small amount of text: ");
-            string userText = Console.ReadLine();
+            //Variable that saves the input from the console to memory
+            string indexString = Console.ReadLine();
 
-            for (int i = 0; i < myStringArray.Length; i++)
+            //a for loop by a counter of i as long as i is less then the count of the list.  
+            for (int i = 0; i < stringList.Length; i++)
             {
-                string addUserString = myStringArray[i] + " " + userText;
-                Console.WriteLine(addUserString + " " + "\n");
+                stringList[i] = "\n" + stringList[i] + indexString + ".";
             }
-            Console.ReadLine();
-
+            //a foreach loop that iterates through the newly saved array values to print out the strings from the array from each index of the array.
+            foreach (string all in stringList)
+            {
+                Console.WriteLine(all);
+            }
             //-------Create an infinite loop------------
             //string[] infinite = { "i", "n", "f", "i", "n", "i", "t", "e" };
             //for( ; ; )
@@ -60,43 +64,6 @@ namespace console_app_1
             //Create a loop that iterates through the loop and then displays the index of the array that contains matching text on the screen.
 
 
-            List<string> myWords = new List<string>();
-            myWords.Add("Never");
-            myWords.Add("Gonna");
-            myWords.Add("give");
-            myWords.Add("you");
-            myWords.Add("up");
-            myWords.Add("never");
-            myWords.Add("gonna");
-            myWords.Add("let");
-            myWords.Add("you");
-            myWords.Add("down");
-
-            Console.WriteLine("Type a word from this sentence to find what index that word is contained at. \"Never Gonna give you up never gonna let you down\"");
-            string userWord = Console.ReadLine();
-
-            //----Loop that will look for a word typed by the user in the List------------------------------------------
-            foreach (string word in myWords)
-            {
-                if (word == userWord)
-                {
-                    Console.WriteLine("The index of " + "\"" + userWord + "\"" + " is: " + myWords.IndexOf(word));
-                    break;
-                }
-            }
-
-            //catches if the user entered a word that is not in the sentence.
-            if (myWords.Contains(userWord) == false)
-            {
-                Console.WriteLine("You did not enter a word from the sentence.");
-            }
-            Console.ReadLine();
-
-
-            //Create a List of strings that has at least two identical strings in the List.
-            //Ask the user to select text to search for in the List. Create a loop that iterates through the loop and then
-            //displays the indices of the array that contain matching text on the screen.
-
             List<string> mySong = new List<string>();
             List<int> repeatLyrics = new List<int>();
 
@@ -109,15 +76,53 @@ namespace console_app_1
             mySong.Add("you");
             
 
+            Console.WriteLine("Type a word from this sentence to find what index that word is contained at. \"Never gonna turn around and hurt you\"");
+            string userWord = Console.ReadLine();
+
+            //----Loop that will look for a word typed by the user in the List------------------------------------------
+            foreach (string word in mySong)
+            {
+                if (word == userWord)
+                {
+                    Console.WriteLine("The index of " + "\"" + userWord + "\"" + " is: " + mySong.IndexOf(word));
+                    break;
+                }
+            }
+
+            //catches if the user entered a word that is not in the sentence.
+            if (mySong.Contains(userWord) == false)
+            {
+                Console.WriteLine("You did not enter a word from the sentence.");
+            }
+            Console.ReadLine();
+
+
+            //Create a List of strings that has at least two identical strings in the List.
+            //Ask the user to select text to search for in the List. Create a loop that iterates through the loop and then
+            //displays the indices of the array that contain matching text on the screen.
+
+            
+            List<string> myWords = new List<string>();
+            myWords.Add("Never");
+            myWords.Add("Gonna");
+            myWords.Add("give");
+            myWords.Add("you");
+            myWords.Add("up");
+            myWords.Add("never");
+            myWords.Add("gonna");
+            myWords.Add("let");
+            myWords.Add("you");
+            myWords.Add("down");
+
             Console.WriteLine("Please input a word from the below lyrics: ");
-            Console.WriteLine("Never gonna turn around and hurt you");
+            Console.WriteLine("Never Gonna give you up never gonna let you down");
             string userWordLyric = Console.ReadLine();
 
             //search List mySong to match the users word with a word(s) in the lyrics then print the index of those words.
-            for (int i = 0; i < mySong.Count; i++)
+            for (int i = 0; i < myWords.Count; i++)
             {
                 bool songFound = false;
-                if (userWordLyric == mySong[i])
+                if (userWordLyric == myWords[i])
                 {
                     songFound = true;
                     Console.WriteLine("The index of the lyric is: " + i);
@@ -125,7 +130,7 @@ namespace console_app_1
             }
 
             //if user word is not in the List display error            
-            if (mySong.Contains(userWordLyric) == false)
+            if (myWords.Contains(userWordLyric) == false)
             {
                 Console.WriteLine("The word you typed is not in the lyrics.");
             }

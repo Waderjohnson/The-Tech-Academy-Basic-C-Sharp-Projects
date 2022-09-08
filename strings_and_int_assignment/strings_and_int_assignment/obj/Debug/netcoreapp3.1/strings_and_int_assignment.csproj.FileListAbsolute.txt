@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.exe
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.deps.json
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.runtimeconfig.json
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.runtimeconfig.dev.json
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.dll
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\bin\Debug\netcoreapp3.1\strings_and_int_assignment.pdb
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.AssemblyInfo.cs
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.dll
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.pdb
+C:\Users\wader\source\repos\strings_and_int_assignment\strings_and_int_assignment\obj\Debug\netcoreapp3.1\strings_and_int_assignment.genruntimeconfig.cache

@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.exe
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.deps.json
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.runtimeconfig.json
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.runtimeconfig.dev.json
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.dll
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\bin\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.pdb
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.AssemblyInfo.cs
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.dll
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.pdb
+C:\Users\wader\source\repos\OperatorsSubmissionAssignment\OperatorsSubmissionAssignment\obj\Debug\netcoreapp3.1\OperatorsSubmissionAssignment.genruntimeconfig.cache

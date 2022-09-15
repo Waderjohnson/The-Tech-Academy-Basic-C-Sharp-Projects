@@ -1,0 +1,14 @@
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.exe
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.deps.json
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.json
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.runtimeconfig.dev.json
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\bin\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfoInputs.cache
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.AssemblyInfo.cs
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.dll
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.pdb
+C:\Users\wader\source\repos\LambdaAssignment\LambdaAssignment\obj\Debug\netcoreapp3.1\LambdaAssignment.genruntimeconfig.cache

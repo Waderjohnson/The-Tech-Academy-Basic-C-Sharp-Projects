@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -10,15 +10,11 @@ namespace Polymorphism
     {
         static void Main(string[] args)
         {
-            Employee IQuittable = new Employee();
-            IQuittable.FirstName = "Sample";
-            IQuittable.LastName = "Student";
-            IQuittable.SayName();
+            //Instantiate new employee and set their name
+            IQuittable person = new Employee() { FirstName = "Sample", LastName = "Student" };
 
             //Use polymorphism to create an object of type IQuittable and call the Quit() method on it.
-            IQuittable.Quit();
-
-            Console.ReadLine();
+            person.Quit();
         }
     }
 }

@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,18 +6,19 @@ using System.Threading.Tasks;
 
 namespace Polymorphism
 {
-    class Employee : Person, IQuittable
+    //Create another class called Employee and have it inherit from the Person class
+    public class Employee : Person, IQuittable
     {
-        public override void SayName()
-        {
-            Console.WriteLine("Employee name is: {0} {1}", FirstName, LastName);
-        }
+        public int id { get; set; }
 
         public void Quit()
         {
-            Console.WriteLine("This employee has quit");
-            FirstName = "";
-            LastName = "";
+            Console.WriteLine("Employee is quitting.");
+        }
+
+        public void SayName()
+        {
+            Console.WriteLine("Name: " + FirstName + " " + LastName);
         }
     }
 }

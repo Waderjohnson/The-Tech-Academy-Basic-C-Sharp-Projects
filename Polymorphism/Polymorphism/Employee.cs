@@ -6,19 +6,11 @@ using System.Threading.Tasks;
 
 namespace Polymorphism
 {
-    //Create another class called Employee and have it inherit from the Person class
-    public class Employee : Person, IQuittable
+    //Create an abstract class called Person with two properties: string FirstName and string LastName.
+    public abstract class Person
     {
-        public int id { get; set; }
+        public string FirstName { get; set; }
+        public string LastName { get; set; }
 
-        public void Quit()
-        {
-            Console.WriteLine("Employee is quitting.");
-        }
-
-        public void SayName()
-        {
-            Console.WriteLine("Name: " + FirstName + " " + LastName);
-        }
     }
 }

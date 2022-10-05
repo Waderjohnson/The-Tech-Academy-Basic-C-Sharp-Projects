@@ -1,0 +1,12 @@
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\StudentFinalChallenge.exe.config
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\StudentFinalChallenge.exe
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\StudentFinalChallenge.pdb
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\EntityFramework.dll
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\EntityFramework.xml
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\obj\Debug\StudentFinalChallenge.csproj.AssemblyReference.cache
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\obj\Debug\StudentFinalChallenge.csproj.CoreCompileInputs.cache
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\obj\Debug\StudentFinalChallenge.csproj.CopyComplete
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\obj\Debug\StudentFinalChallenge.exe
+C:\Users\wader\source\repos\StudentFinalChallenge\StudentFinalChallenge\obj\Debug\StudentFinalChallenge.pdb
